@@ -23,9 +23,9 @@ O **MaxMin Select** é um algoritmo de **divisão e conquista (divide and conque
 - Este projeto **não** possui dependências externas.  
 
 ### 1) Clonar o repositório
-git clone https://github.com/<bruna-bernardes>/maxmin-python.git
+git clone https://github.com/bruna-bernardes/MaxMin-Python.git
 
-cd maxmin-python
+cd MaxMin-Python
 
 ### 2) (Opcional) Criar e ativar um ambiente virtual
 - Windows
